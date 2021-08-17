@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Guillaume 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning project management and data science
