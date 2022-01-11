@@ -1,9 +1,9 @@
 ### Hi there, I am Guillaume 👋
 
-- 🔭 I’m currently working on a NLP project to determine investment strategies.
-- 🌱 I’m currently learning: data science
-- 💬 Ask me about: finance, cryptocurrencies, economics.
-- ⚡ Fun fact: Skeksis 🐦 + Maine Coon 🐈 = skekCoon
+- 🔭 I’m currently working on a **NLP project to determine investment strategies**.
+- 🌱 I’m currently learning: **data science**
+- 💬 Ask me about: **finance, cryptocurrencies, economics**
+- ⚡ Fun fact: **Skeksis** 🐦 + **Maine Coon** 🐈 = **skekCoon**
 
 **Links** 
 | [LinkedIn](https://www.linkedin.com/in/guillaumegilles/)
