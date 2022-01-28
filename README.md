@@ -7,6 +7,7 @@
 
 **Links** 
 | [LinkedIn](https://www.linkedin.com/in/guillaumegilles/)
+| [Stack Overflow](https://stackoverflow.com/users/11488808/guillaume-gilles)
 | [Kaggle](https://www.kaggle.com/guillaumegilles)
 | [Website](https://guillaumegilles.com) |
 
