@@ -1,6 +1,6 @@
 ### Hi there, I am Guillaume 👋
 
-- 🔭 I’m currently working on a **[NLP project to determine investment strategies(https://github.com/guillaumegilles/lazy-prices-cac-40)**.
+- 🔭 I’m currently working on a **[NLP project to determine investment strategies](https://github.com/guillaumegilles/lazy-prices-cac-40)**.
 - 🌱 I’m currently learning: **data science**
 - 💬 Ask me about: **finance, cryptocurrencies, economics**
 - ⚡ Fun fact: **Skeksis** 🐦 + **Maine Coon** 🐈 = **skekCoon**
