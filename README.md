@@ -4,8 +4,6 @@ I am passionate about artificial intelligence, machine learning, and deep learni
 
 Machine Learning is a boiling field, so every day is an opportunity to learn and discover new things. Hack the world, one day at a time!
 
-**Links** 
-| [LinkedIn](https://www.linkedin.com/in/guillaumegilles/)
-| [Stack Overflow](https://stackoverflow.com/users/11488808/guillaume-gilles)
+| [Website](https://guillaumegilles.com)
 | [Kaggle](https://www.kaggle.com/guillaumegilles)
-| [Website](https://guillaumegilles.com) |
+| [LinkedIn](https://www.linkedin.com/in/guillaumegilles/) |
