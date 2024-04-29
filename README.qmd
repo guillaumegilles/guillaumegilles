@@ -1,0 +1,16 @@
+---
+title: "README"
+format: gfm
+jupyter: python3
+---
+
+This is a GitHub README that has content dynamically generated from Python:
+    
+```{python}
+1 + 1
+```
+
+## Inspirations
+
+- https://zzetao.github.io/awesome-github-profile/
+- https://github.com/CyrisXD/CyrisXD/blob/master/README.md
