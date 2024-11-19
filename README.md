@@ -1,4 +1,4 @@
-### Hi there, I am Guillaume
+## Hi there 👋
 
 I am passionate about artificial intelligence, machine learning, and deep learning!
 I strive to understand how machine learning algorithms are applied to solve real-world problems.
