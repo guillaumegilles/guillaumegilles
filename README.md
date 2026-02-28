@@ -1,5 +1,6 @@
-# About
 
+
+<div id="hero-heading">
 
 # From finance to firewalls — I secure what matters.
 
@@ -13,6 +14,8 @@ for decision-makers. In parallel, I taught statistics, financial
 analysis, and information systems at top business schools — instilling
 the kind of analytical rigor that translates directly into security
 thinking.
+
+</div>
 
 Today, I’m immersed in **cybersecurity**: ranking up on
 [HackTheBox](https://app.hackthebox.com/profile/2425807), learning
@@ -42,11 +45,15 @@ Coon](https://fr.wikipedia.org/wiki/Maine_coon).*
 
 ## 🎓 Certifications
 
-- Data Scientist @ ENSAE
-- Senior Financial Analyst @ ESSEC
+- **2023**: [Data Scientist @
+  ENSAE](https://www.lecepe.fr/certificats/data-scientist/)
+- **2016**: [Senior Financial Analyst @
+  ESSEC](https://www.essec.edu/en/pages/custom-programs/)
 
 ## 📈 GitHub Stats
 
+[![Anurag’s GitHub
+stats](https://github-readme-stats.vercel.app/api?username=anuraghazra.png)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=guillaumegilles&show_icons=true&count_private=true&theme=radical&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumegilles&layout=compact&theme=radical&hide_border=true" />
