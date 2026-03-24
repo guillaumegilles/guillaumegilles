@@ -1,12 +1,32 @@
 
+<!-- GFM header: only visible in the GitHub profile README -->
+<!-- ⚠️ AUTO-GENERATED from ggilles.dev — do not edit directly. -->
+<!-- Source: https://github.com/guillaumegilles/guillaumegilles.github.io -->
 
-<div id="hero-heading">
+<div align="center">
 
-# From finance to firewalls — I secure what matters.
+<img src="https://ggilles.dev/assets/profile.png" width="150" alt="Guillaume Gilles" style="border-radius: 50%;" />
 
-> I’m **Guillaume Gilles**, a former Banque de France financial analyst
-> who now channels a decade of risk assessment and teaching into
-> cybersecurity.
+### Guillaume Gilles
+
+**From finance to firewalls — bringing analytical rigor to
+cybersecurity.**
+
+[![Website](https://img.shields.io/badge/🌐_Website-ggilles.dev-0969da)](https://ggilles.dev)
+[![RSS](https://img.shields.io/badge/RSS-Feed-FFA500?logo=rss&logoColor=fff)](https://ggilles.dev/blog.xml)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-guillaumegilles-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/guillaumegilles)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?logo=hackthebox&logoColor=fff)](https://app.hackthebox.com/profile/2425807)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-skekCoon-C11111?logo=tryhackme&logoColor=fff)](https://tryhackme.com/p/skekCoon)
+
+</div>
+
+------------------------------------------------------------------------
+
+<!-- HTML hero: only visible on the Quarto website -->
+<!-- GFM intro: only visible in the GitHub profile README -->
+
+> A former Banque de France analyst turned cybersecurity practitioner,
+> with a decade of risk assessment and teaching experience.
 
 For over ten years at the **Banque de France**, I decoded macroeconomic
 patterns, assessed corporate resilience, and produced strategic insight
@@ -15,7 +35,14 @@ analysis, and information systems at top business schools — instilling
 the kind of analytical rigor that translates directly into security
 thinking.
 
-</div>
+## 🌐 Online Profiles
+
+| Platform          | Profile                                                | Focus                                    |
+|-------------------|--------------------------------------------------------|------------------------------------------|
+| 🟢 **HackTheBox** | [skekCoon](https://app.hackthebox.com/profile/2425807) | Penetration testing labs, CTF challenges |
+| 🔵 **TryHackMe**  | [skekCoon](https://tryhackme.com/p/skekCoon)           | Cyber defense, digital forensics         |
+
+<!-- Shared content: visible in both HTML and GFM -->
 
 Today, I’m immersed in **cybersecurity**: ranking up on
 [HackTheBox](https://app.hackthebox.com/profile/2425807), learning
@@ -23,8 +50,8 @@ penetration testing, and exploring digital forensics, secure network
 design, and incident investigation. My passion lies at the nexus of
 data, security safeguards, and the human behaviors that drive error.
 
-I’m always happy to collaborate on open source projects — feel free to
-reach out about economy, finance, math, or machine learning too.
+Let’s connect — I’m open to cybersecurity collaborations, open-source
+contributions, and conversations about economics or data science.
 
 ⚡ **Fun fact:** *“skekCoon” is a mix of
 [Skeksis](https://en.wikipedia.org/wiki/Skeksis) (from The Dark Crystal)
@@ -40,21 +67,35 @@ Coon](https://fr.wikipedia.org/wiki/Maine_coon).*
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
 <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff" />
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=fff" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?logo=portswigger&logoColor=fff" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?logoColor=fff" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=fff" />
 <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" />
 </p>
 
-## 🎓 Certifications
+## 💼 Experience
+
+- **Banque de France** — Financial Analyst (10+ years) Macroeconomic
+  analysis, corporate resilience assessment, and strategic reporting for
+  decision-makers.
+- **Adjunct Lecturer** — Business Schools Taught statistics, financial
+  analysis, and information systems at top French *grandes écoles*.
+
+## 🎓 Education & Certifications
 
 - **2023**: [Data Scientist @
   ENSAE](https://www.lecepe.fr/certificats/data-scientist/)
 - **2016**: [Senior Financial Analyst @
   ESSEC](https://www.essec.edu/en/pages/custom-programs/)
 
-## 📈 GitHub Stats
+<!-- GFM footer: sponsor link for GitHub profile -->
 
-[![Anurag’s GitHub
-stats](https://github-readme-stats.vercel.app/api?username=anuraghazra.png)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=guillaumegilles&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumegilles&layout=compact&theme=radical&hide_border=true" />
-</p>
+------------------------------------------------------------------------
+
+<div align="center">
+
+💜 If you enjoy my work, consider [sponsoring me on
+GitHub](https://github.com/sponsors/guillaumegilles)!
+
+</div>
