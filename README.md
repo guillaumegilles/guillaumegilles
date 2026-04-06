@@ -25,15 +25,13 @@ cybersecurity.**
 <!-- HTML hero: only visible on the Quarto website -->
 <!-- GFM intro: only visible in the GitHub profile README -->
 
-> A former Banque de France analyst turned cybersecurity practitioner,
-> with a decade of risk assessment and teaching experience.
+> From finance to firewalls — bringing analytical rigor to
+> cybersecurity.
 
-For over ten years at the **Banque de France**, I decoded macroeconomic
-patterns, assessed corporate resilience, and produced strategic insight
-for decision-makers. In parallel, I taught statistics, financial
-analysis, and information systems at top business schools — instilling
-the kind of analytical rigor that translates directly into security
-thinking.
+Ten years at the **Banque de France** decoding macroeconomic patterns
+and stress-testing corporate balance sheets — while teaching statistics
+and financial analysis at top French business schools. That same
+analytical rigor now drives my pivot into cybersecurity.
 
 ## 🌐 Online Profiles
 
