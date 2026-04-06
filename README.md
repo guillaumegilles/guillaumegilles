@@ -73,22 +73,6 @@ Coon](https://fr.wikipedia.org/wiki/Maine_coon).*
 <img src="https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=fff" />
 <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" />
 </p>
-
-## 💼 Experience
-
-- **Banque de France** — Financial Analyst (10+ years) Macroeconomic
-  analysis, corporate resilience assessment, and strategic reporting for
-  decision-makers.
-- **Adjunct Lecturer** — Business Schools Taught statistics, financial
-  analysis, and information systems at top French *grandes écoles*.
-
-## 🎓 Education & Certifications
-
-- **2023**: [Data Scientist @
-  ENSAE](https://www.lecepe.fr/certificats/data-scientist/)
-- **2016**: [Senior Financial Analyst @
-  ESSEC](https://www.essec.edu/en/pages/custom-programs/)
-
 <!-- GFM footer: sponsor link for GitHub profile -->
 
 ------------------------------------------------------------------------
