@@ -5,8 +5,6 @@
 
 <div align="center">
 
-<img src="https://ggilles.dev/assets/profile.png" width="150" alt="Guillaume Gilles" style="border-radius: 50%;" />
-
 ### Guillaume Gilles
 
 **From finance to firewalls — bringing analytical rigor to
