@@ -42,18 +42,15 @@ analytical rigor now drives my pivot into cybersecurity.
 
 <!-- Shared content: visible in both HTML and GFM -->
 
-Today, I’m immersed in **cybersecurity**: ranking up on
-[HackTheBox](https://app.hackthebox.com/profile/2425807), learning
-penetration testing, and exploring digital forensics, secure network
-design, and incident investigation. My passion lies at the nexus of
-data, security safeguards, and the human behaviors that drive error.
+Currently immersed in **cybersecurity** — ranking up on
+[HackTheBox](https://app.hackthebox.com/profile/2425807), working
+through penetration testing, digital forensics, and incident
+investigation. Open to collaborations at the intersection of data,
+security, and human behavior.
 
-Let’s connect — I’m open to cybersecurity collaborations, open-source
-contributions, and conversations about economics or data science.
-
-⚡ **Fun fact:** *“skekCoon” is a mix of
-[Skeksis](https://en.wikipedia.org/wiki/Skeksis) (from The Dark Crystal)
-and my best friend — a [Maine
+⚡ **Fun fact:** *“skekCoon” blends
+[Skeksis](https://en.wikipedia.org/wiki/Skeksis) (The Dark Crystal) with
+my best friend — a [Maine
 Coon](https://fr.wikipedia.org/wiki/Maine_coon).*
 
 ## 🛠️ Tech Stack
