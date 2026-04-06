@@ -33,13 +33,6 @@ and stress-testing corporate balance sheets — while teaching statistics
 and financial analysis at top French business schools. That same
 analytical rigor now drives my pivot into cybersecurity.
 
-## 🌐 Online Profiles
-
-| Platform          | Profile                                                | Focus                                    |
-|-------------------|--------------------------------------------------------|------------------------------------------|
-| 🟢 **HackTheBox** | [skekCoon](https://app.hackthebox.com/profile/2425807) | Penetration testing labs, CTF challenges |
-| 🔵 **TryHackMe**  | [skekCoon](https://tryhackme.com/p/skekCoon)           | Cyber defense, digital forensics         |
-
 <!-- Shared content: visible in both HTML and GFM -->
 
 Currently immersed in **cybersecurity** — ranking up on
