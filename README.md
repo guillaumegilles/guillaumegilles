@@ -13,7 +13,7 @@ cybersecurity.**
 [![Website](https://img.shields.io/badge/🌐_Website-ggilles.dev-0969da)](https://ggilles.dev)
 [![RSS](https://img.shields.io/badge/RSS-Feed-FFA500?logo=rss&logoColor=fff)](https://ggilles.dev/blog.xml)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guillaumegilles-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/guillaumegilles)
-[![Kaggle](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?logo=hackthebox&logoColor=fff)](https://app.hackthebox.com/profile/2425807)
+[![Kaggle](https://img.shields.io/badge/Kaggle-guillaumegilles-00B4D8?logo=kaggle&logoColor=fff)](https://www.kaggle.com/guillaumegilles)
 
 </div>
 
@@ -38,26 +38,6 @@ through penetration testing, digital forensics, and incident
 investigation. Open to collaborations at the intersection of data,
 security, and human behavior.
 
-⚡ **Fun fact:** *“skekCoon” blends
-[Skeksis](https://en.wikipedia.org/wiki/Skeksis) (The Dark Crystal) with
-my best friend — a [Maine
-Coon](https://fr.wikipedia.org/wiki/Maine_coon).*
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-<img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
-<img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff" />
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=fff" />
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?logo=portswigger&logoColor=fff" />
-<img src="https://img.shields.io/badge/Nmap-4682B4?logoColor=fff" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?logo=metasploit&logoColor=fff" />
-<img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" />
-</p>
 <!-- GFM footer: sponsor link for GitHub profile -->
 
 ------------------------------------------------------------------------
