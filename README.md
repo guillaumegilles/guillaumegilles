@@ -13,8 +13,7 @@ cybersecurity.**
 [![Website](https://img.shields.io/badge/🌐_Website-ggilles.dev-0969da)](https://ggilles.dev)
 [![RSS](https://img.shields.io/badge/RSS-Feed-FFA500?logo=rss&logoColor=fff)](https://ggilles.dev/blog.xml)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guillaumegilles-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/guillaumegilles)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?logo=hackthebox&logoColor=fff)](https://app.hackthebox.com/profile/2425807)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-skekCoon-C11111?logo=tryhackme&logoColor=fff)](https://tryhackme.com/p/skekCoon)
+[![Kaggle](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?logo=hackthebox&logoColor=fff)](https://app.hackthebox.com/profile/2425807)
 
 </div>
 
