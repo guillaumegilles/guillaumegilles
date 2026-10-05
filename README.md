@@ -7,8 +7,7 @@
 
 ### Guillaume Gilles
 
-**From finance to firewalls — bringing analytical rigor to
-cybersecurity.**
+**Economics through the lens of mathematics and AI**
 
 [![Website](https://img.shields.io/badge/🌐_Website-ggilles.dev-0969da)](https://ggilles.dev)
 [![RSS](https://img.shields.io/badge/RSS-Feed-FFA500?logo=rss&logoColor=fff)](https://ggilles.dev/blog.xml)
@@ -22,21 +21,14 @@ cybersecurity.**
 <!-- HTML hero: only visible on the Quarto website -->
 <!-- GFM intro: only visible in the GitHub profile README -->
 
-> From finance to firewalls — bringing analytical rigor to
-> cybersecurity.
-
-Ten years at the **Banque de France** decoding macroeconomic patterns
-and stress-testing corporate balance sheets — while teaching statistics
-and financial analysis at top French business schools. That same
-analytical rigor now drives my pivot into cybersecurity.
-
-<!-- Shared content: visible in both HTML and GFM -->
-
-Currently immersed in **cybersecurity** — ranking up on
-[HackTheBox](https://app.hackthebox.com/profile/2425807), working
-through penetration testing, digital forensics, and incident
-investigation. Open to collaborations at the intersection of data,
-security, and human behavior.
+I am an economist and statistician specialising in quantitative economic
+and financial analysis. My interests lie at the intersection of
+economics, finance, mathematics, econometrics, machine learning, and
+deep learning. I work across the machine-learning lifecycle, from data
+preparation and modelling to evaluation, interpretation, and reporting.
+I am particularly interested in applying advanced quantitative methods
+to financial forecasting, nonlinear economic dynamics, risk analysis,
+and complex economic systems.
 
 <!-- GFM footer: sponsor link for GitHub profile -->
 
