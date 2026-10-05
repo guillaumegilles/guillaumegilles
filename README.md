@@ -21,7 +21,7 @@
 <!-- HTML hero: only visible on the Quarto website -->
 <!-- GFM intro: only visible in the GitHub profile README -->
 
-I am an economist and statistician specialising in quantitative economic
+I am an economist and statistician specializing in quantitative economic
 and financial analysis. My interests lie at the intersection of
 economics, finance, mathematics, econometrics, machine learning, and
 deep learning. I work across the machine-learning lifecycle, from data
