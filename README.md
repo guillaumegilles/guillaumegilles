@@ -1,9 +1,11 @@
 
 <!-- GFM header: only visible in the GitHub profile README -->
+
 <!-- ⚠️ AUTO-GENERATED from ggilles.dev — do not edit directly. -->
+
 <!-- Source: https://github.com/guillaumegilles/guillaumegilles.github.io -->
 
-<div align="center">
+<div data-align="center">
 
 ### Guillaume Gilles
 
@@ -19,6 +21,7 @@
 ------------------------------------------------------------------------
 
 <!-- HTML hero: only visible on the Quarto website -->
+
 <!-- GFM intro: only visible in the GitHub profile README -->
 
 I am an economist and statistician specializing in quantitative economic
@@ -34,7 +37,7 @@ and complex economic systems.
 
 ------------------------------------------------------------------------
 
-<div align="center">
+<div data-align="center">
 
 💜 If you enjoy my work, consider [sponsoring me on
 GitHub](https://github.com/sponsors/guillaumegilles)!
