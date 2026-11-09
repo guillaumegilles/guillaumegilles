@@ -1,4 +1,3 @@
-Guillaume Gilles
 
 <!-- GFM header: only visible in the GitHub profile README -->
 
