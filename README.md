@@ -42,12 +42,12 @@ and complex economic systems.
 💜 If you enjoy my work, consider [sponsoring me on
 GitHub](https://github.com/sponsors/guillaumegilles)!
 
-<!-- GitHub Sponsors — one avatar-link per line. Add new sponsors here. -->
+<!-- GitHub Sponsors — add one <a><img></a> line per sponsor below (no blank lines between). -->
 
-<!-- Included in about.qmd via {{< include support.md >}} so the list shows -->
+<!-- Included in about.qmd via {{< include support.md >}}: shown on the About page (HTML) -->
 
-<!-- both on ggilles.dev (HTML) and in the GitHub profile README (GFM).   -->
+<!-- and in the GitHub profile README (GFM). Raw HTML so it renders identically in both. -->
 
-[![](https://github.com/carusogabriele07-ux.png?size=64)](https://github.com/carusogabriele07-ux)
+<a href="https://github.com/carusogabriele07-ux"><img src="https://github.com/carusogabriele07-ux.png?size=64" width="64" height="64" alt="carusogabriele07-ux" style="border-radius:50%; margin:4px;"></a>
 
 </div>
